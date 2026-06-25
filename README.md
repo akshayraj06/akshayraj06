@@ -1,6 +1,6 @@
-# 💫 About Me:
-# Hi, I'm Akshay Raj 👋<br><br>🎓 B.Tech Student | 💻 Aspiring Full-Stack Developer<br><br>I am passionate about building web applications, learning new technologies, and solving real-world problems through code. Currently, I am focusing on Web Development, JavaScript, React.js, and Python while continuously improving my problem-solving skills.<br><br>## 🚀 What I'm Working On<br>- Building responsive web applications<br>- Learning React.js and modern JavaScript<br>- Practicing Data Structures & Algorithms<br>- Exploring Open Source contributions<br><br>## 🛠️ Tech Stack<br>HTML • CSS • Python • Git • GitHub<br><br>## 🎯 Goals<br>- Gain hands-on industry experience through internships<br>- Contribute to open-source projects<br>- Become a skilled Full-Stack Developer<br><br>> "Success is built through consistency, learning, and continuous improvement."
-
+**# 💫 About Me:
+**# Hi, I'm Akshay Raj 👋<br><br>🎓 B.Tech Student | 💻 Aspiring Full-Stack Developer<br><br>I am passionate about building web applications, learning new technologies, and solving real-world problems through code. Currently, I am focusing on Web Development, JavaScript, React.js, and Python while continuously improving my problem-solving skills.<br><br>## 🚀 What I'm Working On<br>- Building responsive web applications<br>- Learning React.js and modern JavaScript<br>- Practicing Data Structures & Algorithms<br>- Exploring Open Source contributions<br><br>## 🛠️ Tech Stack<br>HTML • CSS • Python • Git • GitHub<br><br>## 🎯 Goals<br>- Gain hands-on industry experience through internships<br>- Contribute to open-source projects<br>- Become a skilled Full-Stack Developer<br><br>> "Success is built through consistency, learning, and continuous improvement."
+**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshayraj30) 
@@ -22,3 +22,4 @@
 [![](https://komarev.com/ghpvc/?username=akshayraj06&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
