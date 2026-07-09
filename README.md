@@ -75,7 +75,7 @@
 <h2 align="center">🏆 GitHub Trophy Cabinet</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=algolia" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
