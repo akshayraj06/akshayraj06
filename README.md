@@ -71,11 +71,29 @@
 
 </p>
 
-🏆 **GitHub Trophies**
+<h2 align="center">🏆 My GitHub Trophy Cabinet</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3&section=header"/>
+</p>
 
-✍️ **Random Dev Quote**
+<p align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=algolia&row=2&column=4&no-frame=true&no-bg=true&margin-w=22"/>
+
+</p>
+
+<p align="center">
+
+⭐ Building Projects &nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 Learning Daily &nbsp;&nbsp;•&nbsp;&nbsp;
+💡 Open Source Enthusiast
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38ef7d,100:11998e&height=3&section=footer"/>
+</p>✍️ **Random Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
