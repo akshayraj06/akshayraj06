@@ -71,28 +71,22 @@
 
 </p>
 
-<h2 align="center">🏆 My GitHub Trophy Cabinet</h2>
+<!-- GitHub Trophy Section -->
+<h2 align="center">🏆 GitHub Trophy Cabinet</h2>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=3&section=header"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=algolia&row=2&column=4&no-frame=true&no-bg=true&margin-w=22"/>
-
+  ⭐ <b>Building Projects</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🚀 <b>Learning Daily</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💡 <b>Open Source Enthusiast</b>
 </p>
 
-<p align="center">
 
-⭐ Building Projects &nbsp;&nbsp;•&nbsp;&nbsp;
-🚀 Learning Daily &nbsp;&nbsp;•&nbsp;&nbsp;
-💡 Open Source Enthusiast
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38ef7d,100:11998e&height=3&section=footer"/>
 </p>✍️ **Random Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
