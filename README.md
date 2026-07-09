@@ -37,12 +37,39 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-📊 **GitHub Stats:**
+<h2 align="center">📈 GitHub Stats</h2>
 
-![](https://github-readme-stats.shion.dev/api?username=akshayraj06&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=akshayraj06&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=akshayraj06&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=akshayraj06&show_icons=true&theme=shadow_green&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayraj06&theme=shadow_green&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akshayraj06&layout=compact&theme=shadow_green&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshayraj06&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=matrix&no-frame=true&margin-w=15"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayraj06&theme=github-compact&hide_border=true"/>
+
+</p>
 
 🏆 **GitHub Trophies**
 
