@@ -69,7 +69,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayraj06&theme=github-compact&hide_border=true"/>
 
-</p> update this code for my readme and make it attractive and by viewing viewer should hold for watching ,make it excellent and also given an preview  <!-- GitHub Trophy Section -->
+<!-- GitHub Trophy Section -->
 <h2 align="center">🏆 GitHub Trophy Cabinet</h2>
 
 <p align="center">
