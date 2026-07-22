@@ -37,22 +37,6 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<!-- ====================== GitHub Stats ====================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00C853,100:00FF99&text=GitHub%20Analytics&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Full+Stack+Developer;Building+Projects+That+Solve+Real+Problems;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshayraj06&label=Profile+Views&color=00c853&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/akshayraj06?style=for-the-badge&color=00c853&labelColor=000000" />
-  <img src="https://img.shields.io/github/stars/akshayraj06?style=for-the-badge&color=00c853&labelColor=000000" />
-</p>
-
----
-
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
@@ -63,19 +47,11 @@
 
 </p>
 
----
-
-<h2 align="center">💻 Top Languages</h2>
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akshayraj06&layout=compact&theme=shadow_green&hide_border=true&langs_count=10"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akshayraj06&layout=compact&theme=shadow_green&hide_border=true"/>
 
 </p>
-
----
-
-<h2 align="center">📊 Profile Summary</h2>
 
 <p align="center">
 
@@ -83,72 +59,17 @@
 
 </p>
 
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=matrix&no-frame=true&margin-w=15&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshayraj06&theme=matrix&no-frame=true&margin-w=15"/>
 
 </p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshayraj06&theme=github-compact&hide_border=true"/>
 
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/akshayraj06/akshayraj06/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-<h2 align="center">📊 More GitHub Insights</h2>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshayraj06&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshayraj06&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshayraj06&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshayraj06&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
----
-
-<h2 align="center">💬 Developer Quote</h2>
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C853,100:00FF99"/>
-
-<!-- ====================== End GitHub Stats ====================== -->
-<!-- GitHub Trophy Section -->
+</p> update this code for my readme and make it attractive and by viewing viewer should hold for watching ,make it excellent and also given an preview  <!-- GitHub Trophy Section -->
 <h2 align="center">🏆 GitHub Trophy Cabinet</h2>
 
 <p align="center">
