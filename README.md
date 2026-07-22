@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=akshayraj06&show_icons=true&theme=shadow_green&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=akshayraj06&show_icons=true&theme=shadow_yellow&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=akshayraj06&theme=blue&hide_border=true"/>
 
